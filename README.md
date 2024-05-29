@@ -12,4 +12,4 @@ The dataset (creatures.csv) includes features representing the height and color 
 
 The artificial neuron learns to classify the creatures by adjusting its weights and bias through the backpropagation algorithm, aiming to minimize the binary cross-entropy loss between its predictions and the actual species labels.
 
-[Creatures](/creatures.webp)!
+![Creatures](creatures.webp)
