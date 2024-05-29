@@ -1,4 +1,4 @@
-# Artificial Neuron with backpropagation
+# Artificial Neuron With Backpropagation
 A simple implementation of an artificial neuron with backpropagation in Python. The goal is to demonstrate the basic principles of the artificial neuron as a precursor to neural networks for learning purposes.
 
 
