@@ -29,7 +29,7 @@ class Neuron:
 
 
 def sigmoid_activation(n):
-        return 1 / (1 + np.exp(-n))
+    return 1 / (1 + np.exp(-n))
     
 def sigmoid_derivative(n):
     return n * (1 - n)
